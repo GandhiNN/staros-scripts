@@ -1,7 +1,10 @@
 # StarOS Operational Tools
-Cisco StarOS is a software made to run wireless backbone in 3GPP-compliant networks.
+Cisco StarOS is a software made to run wireless backbone in 3GPP-compliant networks.  
+  
+This repo contains tools written to automate some aspects of Cisco StarOS operational tasks/activities.
 
 ### Auto Pinger
+Automated PING test toward external IP Address
 
 ### SDR Getter
 
