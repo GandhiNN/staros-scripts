@@ -1,5 +1,5 @@
 # StarOS Operational Tools
-<placeholder>
+Cisco StarOS is a software made to run wireless backbone in 3GPP-compliant networks.
 
 ### Auto Pinger
 
