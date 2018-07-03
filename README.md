@@ -1,9 +1,35 @@
 # StarOS Operational Tools
 <placeholder>
 
-## sdr-getter
+## Auto Pinger
 
-## edr-getter
+## SDR Getter
+
+## SSD Getter
+
+## SAU/SAAU Getter
+
+## CDR Volume Getter
+
+## Inroamer QCI Getter
+
+## StarOS Config Getter
+
+## SNMP History Getter
+
+## NPU Data Getter
+
+## Bulkstat Snapshot
+
+## DI-LAN Stats Getter
+
+## CDR Rating Group Stats
+
+## EnodeB Subscriber Data Collector
+
+## EDR Getter
+
+## SessMgr ID Getter
 
 ...
 
